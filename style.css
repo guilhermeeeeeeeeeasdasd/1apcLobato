@@ -2,6 +2,9 @@ h1{
   text-align: center;   
   font-size: 25px; 
   color: rgb(110, 179, 46);
-  
+
+}
+body{
+  background-color: deepskyblue;
 }
 
