@@ -7,4 +7,6 @@ h1{
 body{
   background-color: rgb(7, 182, 80);
 }
-
+.personagem{
+  width: 20%;
+}
